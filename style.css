@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    margin: 20px 50px;
+
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    padding: 35px 70px;
+    width: 50%;
+}
+.half-width img{
+    height: 500px;
+    width: 80%;
+}
+.anchor-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background: linear-gradient(rgb(243, 105, 80) ,rgb(245, 122, 8));
+    color: white;
+    border-radius: 30px;
+    box-shadow: 7px 7px 30px thistle;
+
+}
+span{
+    color: orange;
+}
+.riceipies-content{
+    text-align: center;
+    padding: 50px;
+    padding-top: 50px;
+    width: 50%;
+    margin-left: 320px;
+}
+.mid-banner{
+    background-image: url(images/shapes/Untitled-2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.padding-top{
+    padding-top: 80px;
+}
+.tiple-width{
+    padding: 10px 10px;
+    width: 30%;
+}
+.card-item{
+    box-shadow: 5px 5px 20px 5px gray;
+    border-radius: 30px;
+    margin: 30px 50px;
+    height: 435px;
+}
+.third-banner img{
+    height: 200px;
+    width: 100%;
+    border-radius: 30px;
+}
+.recipis-items{
+    margin: 25px;
+    display: flex;
+}
+footer{
+    text-align: center;
+    background-color: rgb(49, 38, 38);
+    color: white;
+    margin-top: 90px;
+    padding: 25px 45px;
+}
